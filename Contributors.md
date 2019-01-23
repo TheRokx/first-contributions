@@ -19,6 +19,7 @@
 - I dont know
 - Alftri
 - Beirut
+- One more guy
 - [Mateusz Wachowicz](https://github.com/najMaseu)
 - Parag Kanodia
 - Affan Aslam
